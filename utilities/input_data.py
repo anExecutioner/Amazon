@@ -1,3 +1,3 @@
-USERNAME = "pankajsoni7788@gmail.com"
-PASSWORD = "Pankaj.soni@321"
+USERNAME = "Your username"
+PASSWORD = "Your password"
 PRODUCT_NAME = "iphone"
